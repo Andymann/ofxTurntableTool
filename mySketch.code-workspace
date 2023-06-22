@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "${workspaceRoot}/../../../../libs/openFrameworks"
+		},
+		{
+			"path": "${workspaceRoot}/../../../../addons"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp",
+			"random": "cpp",
+			"__bit_reference": "cpp",
+			"__node_handle": "cpp",
+			"bitset": "cpp",
+			"deque": "cpp",
+			"__memory": "cpp",
+			"limits": "cpp",
+			"optional": "cpp",
+			"ratio": "cpp",
+			"regex": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"vector": "cpp",
+			"chrono": "cpp",
+			"filesystem": "cpp",
+			"array": "cpp",
+			"functional": "cpp",
+			"utility": "cpp",
+			"variant": "cpp"
+		}
+	}
+}
